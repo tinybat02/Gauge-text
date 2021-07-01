@@ -1453,7 +1453,7 @@ function (_super) {
       style: {
         marginTop: 15,
         fontFamily: 'Trebuchet MS',
-        fontSize: '4em',
+        fontSize: '3em',
         textAlign: 'center'
       }
     }, text), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
