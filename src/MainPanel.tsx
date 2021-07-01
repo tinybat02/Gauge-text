@@ -65,7 +65,7 @@ export class MainPanel extends PureComponent<Props, State> {
         }}
       >
         <CircularProgressbar value={num >= threshold ? threshold : (num / threshold) * 100} text={num.toString()} />
-        <div style={{ marginTop: 15, fontFamily: 'Verdana', fontSize: '2em', textAlign: 'center' }}>{text}</div>
+        <div style={{ marginTop: 15, fontFamily: 'Trebuchet MS', fontSize: '4em', textAlign: 'center' }}>{text}</div>
         <img src={HostIcon} style={{ width: 100, position: 'absolute', top: 0, right: 0 }} />
         <img src={CompanyIcon} style={{ width: 100, height: 40, position: 'absolute', bottom: 0, right: 0 }} />
       </div>

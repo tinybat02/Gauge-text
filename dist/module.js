@@ -1452,8 +1452,8 @@ function (_super) {
     }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
       style: {
         marginTop: 15,
-        fontFamily: 'Verdana',
-        fontSize: '2em',
+        fontFamily: 'Trebuchet MS',
+        fontSize: '4em',
         textAlign: 'center'
       }
     }, text), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
